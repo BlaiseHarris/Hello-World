@@ -1,5 +1,2 @@
 # Hello-World
-
-
-
 GitHub Exercise
